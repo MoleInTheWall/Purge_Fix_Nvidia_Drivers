@@ -7,7 +7,7 @@ This is a repo for fully clearing NVIDIA drivers from a system as well as fixing
 
 Important Notes For Use:
 
--" nvidia-dkms-***.***.**-0ubuntu0.**.**.*# " and " nvidia-dkms-***-open " Must be changed to match your OS version and NVIDIA Driver version you wish to install.
+-" nvidia-dkms-***.***.**-0ubuntu0.**.**.*# " and " nvidia-dkms-***-open " Should be changed to match your OS version and NVIDIA Driver version you wish to install otherwise will install newest version avable in system repos.
 
 -At this time the script only runs with each line run by itself in a terminal in general even after that is patched out if any issues are encountered it's best to run it that way anyway will try to make it log so you can at least start where it left off manually.
 
